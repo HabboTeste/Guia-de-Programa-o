@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CANAL DE LAS ESTRELLAS +2">
+    <display-name lang="es">CANAL DE LAS ESTRELLAS +2</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="TELEMUNDO">
+    <display-name lang="es">TELEMUNDO</display-name>
+    <url>http://www.startvmexico.com</url>
+  </channel>
+  <channel id="TELEFE HD">
+    <display-name lang="es">TELEFE HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="TELEMUNDO HD">
+    <display-name lang="es">TELE MUNDO HD</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <programme start="20210403003000 -0300" stop="20210403005500 -0300" channel="TELEFE HD">
+    <title lang="es">Staff</title>
+  </programme>
+  <programme start="20210403005500 -0300" stop="20210403010000 -0300" channel="TELEFE HD">
+    <title lang="es">Espacios comerciales</title>
+  </programme>
+  <programme start="20210403010000 -0300" stop="20210403013000 -0300" channel="TELEFE HD">
+    <title lang="es">La hora del milagro</title>
+  </programme>
+  <programme start="20210403013000 -0300" stop="20210403021500 -0300" channel="TELEFE HD">
+    <title lang="es">Just Tattoo of Us</title>
+  </programme>
+  <programme start="20210403021500 -0300" stop="20210403024500 -0300" channel="TELEFE HD">
+    <title lang="es">The Challenge</title>
+  </programme>
+  <programme start="20210403024500 -0300" stop="20210403060000 -0300" channel="TELEFE HD">
+    <title lang="es">Espacios comerciales</title>
+  </programme>
+  <programme start="20210403060000 -0300" stop="20210403091500 -0300" channel="TELEFE HD">
+    <title lang="es">Finde en Nick</title>
+  </programme>
+  <programme start="20210403091500 -0300" stop="20210403103000 -0300" channel="TELEFE HD">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210403103000 -0300" stop="20210403104500 -0300" channel="TELEFE HD">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210403104500 -0300" stop="20210403121500 -0300" channel="TELEFE HD">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210403121500 -0300" stop="20210403184500 -0300" channel="TELEFE HD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210403184500 -0300" stop="20210403203000 -0300" channel="TELEFE HD">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20210403203000 -0300" stop="20210403220000 -0300" channel="TELEFE HD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20210403220000 -0300" stop="20210403220000 -0300" channel="TELEFE HD">
+    <title lang="es">PH</title>
+  </programme>
+  <programme start="20210403220000 -0300" stop="20210404000000 -0300" channel="TELEFE HD">
+    <title lang="es">PH</title>
+  </programme>
+  <programme start="20210404000000 -0300" stop="20210404003000 -0300" channel="TELEFE HD">
+    <title lang="es">One Five</title>
+  </programme>
+  <programme start="20210404003000 -0300" stop="20210404020000 -0300" channel="TELEFE HD">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20210404020000 -0300" stop="20210404024500 -0300" channel="TELEFE HD">
+    <title lang="es">The Hills</title>
+  </programme>
+  <programme start="20210404024500 -0300" stop="20210404033000 -0300" channel="TELEFE HD">
+    <title lang="es">Perra vida</title>
+  </programme>
+  <programme start="20210404033000 -0300" stop="20210404060000 -0300" channel="TELEFE HD">
+    <title lang="es">Espacios comerciales</title>
+  </programme>
+  <programme start="20210404060000 -0300" stop="20210404091500 -0300" channel="TELEFE HD">
+    <title lang="es">Finde en Nick</title>
+  </programme>
+  <programme start="20210404091500 -0300" stop="20210404110000 -0300" channel="TELEFE HD">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210404110000 -0300" stop="20210404160000 -0300" channel="TELEFE HD">
+    <title lang="es">La peña de Morfi</title>
+  </programme>
+  <programme start="20210404160000 -0300" stop="20210404181500 -0300" channel="TELEFE HD">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210404181500 -0300" stop="20210404203000 -0300" channel="TELEFE HD">
+    <title lang="es">Icerde</title>
+  </programme>
+  <programme start="20210404203000 -0300" stop="20210404220000 -0300" channel="TELEFE HD">
+    <title lang="es">Minuto para ganar</title>
+  </programme>
+  <programme start="20210404220000 -0300" stop="20210404234500 -0300" channel="TELEFE HD">
+    <title lang="es">Masterchef Celebrity</title>
+  </programme>
+  <programme start="20210403003000 -0300" stop="20210403005500 -0300" channel="TELEMUNDO HD">
+    <title lang="es">Staff</title>
+  </programme>
+  <programme start="20210403005500 -0300" stop="20210403010000 -0300" channel="TELEMUNDO HD">
+    <title lang="es">Espacios comerciales</title>
+  </programme>
+  <programme start="20210403010000 -0300" stop="20210403013000 -0300" channel="TELEMUNDO HD">
+    <title lang="es">La hora del milagro</title>
+  </programme>
+  <programme start="20210403013000 -0300" stop="20210403021500 -0300" channel="TELEMUNDO HD">
+    <title lang="es">Just Tattoo of Us</title>
+  </programme>
+  <programme start="20210403021500 -0300" stop="20210403024500 -0300" channel="TELEMUNDO HD">
+    <title lang="es">The Challenge</title>
+  </programme>
+  <programme start="20210403024500 -0300" stop="20210403060000 -0300" channel="TELEMUNDO HD">
+    <title lang="es">Espacios comerciales</title>
+  </programme>
+  <programme start="20210403060000 -0300" stop="20210403091500 -0300" channel="TELEMUNDO HD">
+    <title lang="es">Finde en Nick</title>
+  </programme>
+  <programme start="20210403091500 -0300" stop="20210403103000 -0300" channel="TELEMUNDO HD">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210403103000 -0300" stop="20210403104500 -0300" channel="TELEMUNDO HD">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210403104500 -0300" stop="20210403121500 -0300" channel="TELEMUNDO HD">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210403121500 -0300" stop="20210403184500 -0300" channel="TELEMUNDO HD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210403184500 -0300" stop="20210403203000 -0300" channel="TELEMUNDO HD">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20210403203000 -0300" stop="20210403220000 -0300" channel="TELEMUNDO HD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20210403220000 -0300" stop="20210403220000 -0300" channel="TELEMUNDO HD">
+    <title lang="es">PH</title>
+  </programme>
+  <programme start="20210403220000 -0300" stop="20210404000000 -0300" channel="TELEMUNDO HD">
+    <title lang="es">PH</title>
+  </programme>
+  <programme start="20210404000000 -0300" stop="20210404003000 -0300" channel="TELEMUNDO HD">
+    <title lang="es">One Five</title>
+  </programme>
+  <programme start="20210404003000 -0300" stop="20210404020000 -0300" channel="TELEMUNDO HD">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20210404020000 -0300" stop="20210404024500 -0300" channel="TELEMUNDO HD">
+    <title lang="es">The Hills</title>
+  </programme>
+  <programme start="20210404024500 -0300" stop="20210404033000 -0300" channel="TELEMUNDO HD">
+    <title lang="es">Perra vida</title>
+  </programme>
+  <programme start="20210404033000 -0300" stop="20210404060000 -0300" channel="TELEMUNDO HD">
+    <title lang="es">Espacios comerciales</title>
+  </programme>
+  <programme start="20210404060000 -0300" stop="20210404091500 -0300" channel="TELEMUNDO HD">
+    <title lang="es">Finde en Nick</title>
+  </programme>
+  <programme start="20210404091500 -0300" stop="20210404110000 -0300" channel="TELEMUNDO HD">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210404110000 -0300" stop="20210404160000 -0300" channel="TELEMUNDO HD">
+    <title lang="es">La peña de Morfi</title>
+  </programme>
+  <programme start="20210404160000 -0300" stop="20210404181500 -0300" channel="TELEMUNDO HD">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20210404181500 -0300" stop="20210404203000 -0300" channel="TELEMUNDO HD">
+    <title lang="es">Icerde</title>
+  </programme>
+  <programme start="20210404203000 -0300" stop="20210404220000 -0300" channel="TELEMUNDO HD">
+    <title lang="es">Minuto para ganar</title>
+  </programme>
+  <programme start="20210404220000 -0300" stop="20210404234500 -0300" channel="TELEMUNDO HD">
+    <title lang="es">Masterchef Celebrity</title>
+  </programme>
+</tv>

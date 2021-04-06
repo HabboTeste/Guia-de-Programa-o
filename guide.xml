@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="CANAL DE LAS ESTRELLAS +2">
-    <display-name lang="es">CANAL DE LAS ESTRELLAS +2</display-name>
-    <url>http://www.startvmexico.com</url>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
   </channel>
   <channel id="TELEFE HD">
     <display-name lang="es">TELEFE HD</display-name>
@@ -12,124 +11,309 @@
     <display-name lang="es">TELEMUNDO</display-name>
     <url>http://www.startvmexico.com</url>
   </channel>
-  <channel id="TV Globo">
-    <display-name lang="pt">TV Globo</display-name>
-    <url>http://www.meuguia.tv</url>
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
   </channel>
   <channel id="Record">
     <display-name lang="pt">Record</display-name>
-    <url>http://www.meuguia.tv</url>
+    <url>http://www.clarotv.com.br.EK</url>
   </channel>
-  <channel id="KSTS HDTV Telemundo 48 (TELMUN)">
-    <display-name lang="en">KSTS HDTV Telemundo 48 (TELMUN)</display-name>
-    <url>http://www.tv.com</url>
+  <channel id="SBT HD">
+    <display-name lang="pt">SBT HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
   </channel>
-  <programme start="20210404000000 -0300" stop="20210404003000 -0300" channel="TELEFE HD">
+  <programme start="20210406000000 +0100" stop="20210406235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20210405001500 -0300" stop="20210405004500 -0300" channel="TELEFE HD">
     <title lang="es">One Five</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/12429017.jpg" />
   </programme>
-  <programme start="20210404003000 -0300" stop="20210404020000 -0300" channel="TELEFE HD">
+  <programme start="20210405004500 -0300" stop="20210405021500 -0300" channel="TELEFE HD">
     <title lang="es">TV compras</title>
+    <desc lang="es">Infomerciales de productos de excelencia para el hogar de "TV compras".(n)</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1301261.jpg" />
+    <rating>
+      <value>ATP</value>
+    </rating>
   </programme>
-  <programme start="20210404020000 -0300" stop="20210404024500 -0300" channel="TELEFE HD">
-    <title lang="es">The Hills</title>
-  </programme>
-  <programme start="20210404024500 -0300" stop="20210404033000 -0300" channel="TELEFE HD">
-    <title lang="es">Perra vida</title>
-  </programme>
-  <programme start="20210404033000 -0300" stop="20210404060000 -0300" channel="TELEFE HD">
-    <title lang="es">Espacios comerciales</title>
-  </programme>
-  <programme start="20210404060000 -0300" stop="20210404091500 -0300" channel="TELEFE HD">
-    <title lang="es">Finde en Nick</title>
-  </programme>
-  <programme start="20210404091500 -0300" stop="20210404110000 -0300" channel="TELEFE HD">
-    <title lang="es">Cine</title>
-  </programme>
-  <programme start="20210404110000 -0300" stop="20210404160000 -0300" channel="TELEFE HD">
-    <title lang="es">La peña de Morfi</title>
-  </programme>
-  <programme start="20210404160000 -0300" stop="20210404181500 -0300" channel="TELEFE HD">
-    <title lang="es">Cine</title>
-  </programme>
-  <programme start="20210404181500 -0300" stop="20210404203000 -0300" channel="TELEFE HD">
-    <title lang="es">Icerde</title>
-  </programme>
-  <programme start="20210404203000 -0300" stop="20210404220000 -0300" channel="TELEFE HD">
-    <title lang="es">Minuto para ganar</title>
-  </programme>
-  <programme start="20210404220000 -0300" stop="20210404234500 -0300" channel="TELEFE HD">
-    <title lang="es">Masterchef Celebrity</title>
-  </programme>
-  <programme start="20210404234500 -0300" stop="20210404234500 -0300" channel="TELEFE HD">
-    <title lang="es">Viajecheff</title>
-  </programme>
-  <programme start="20210404234500 -0300" stop="20210405001500 -0300" channel="TELEFE HD">
-    <title lang="es">Viajecheff</title>
-  </programme>
-  <programme start="20210405001500 -0300" stop="20210405003500 -0300" channel="TELEFE HD">
-    <title lang="es">Free Fire</title>
-  </programme>
-  <programme start="20210405003500 -0300" stop="20210405010000 -0300" channel="TELEFE HD">
-    <title lang="es">One Five</title>
-  </programme>
-  <programme start="20210405010000 -0300" stop="20210405023000 -0300" channel="TELEFE HD">
-    <title lang="es">TV compras</title>
-  </programme>
-  <programme start="20210405023000 -0300" stop="20210405031500 -0300" channel="TELEFE HD">
-    <title lang="es">The Hills</title>
+  <programme start="20210405021500 -0300" stop="20210405031500 -0300" channel="TELEFE HD">
+    <title lang="es">Leiva joyas</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/13557633.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
   </programme>
   <programme start="20210405031500 -0300" stop="20210405040000 -0300" channel="TELEFE HD">
-    <title lang="es">Perra vida</title>
+    <title lang="es">The Hills</title>
+    <desc lang="es">Después de graduarse de la escuela secundaria, la alumna de Laguna Beach, Lauren, se propone vivir sola en Los Ángeles y trabajar como pasante en Teen Vogue.(n)</desc>
+    <credits>
+      <director>Hisham Abed</director>
+      <actor>Whitney Porter</actor>
+      <actor>Whitney Port</actor>
+      <actor>Audrina Patridge</actor>
+      <actor>Lauren  Conrad</actor>
+      <actor>Brody Jenner</actor>
+      <actor>Stephanie Pratt</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Drama</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2771449.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20210405040000 -0300" stop="20210405060000 -0300" channel="TELEFE HD">
+  <programme start="20210405040000 -0300" stop="20210405044500 -0300" channel="TELEFE HD">
+    <title lang="es">Perra vida</title>
+    <title lang="xx">Perrengue</title>
+    <desc lang="es">Perola es una joven que acaba de heredar la casa de su abuela, y que se tiene que adaptar a ser quien toma las decisiones. Con la ayuda de sus mejores amigos, Miguel y Cadu, tratará de organizar su nueva vida.(n)</desc>
+    <credits>
+      <actor>Ingra Liberato</actor>
+      <actor>Paloma Riani</actor>
+      <actor>Christiana Ubach</actor>
+      <actor>Bruno Ferrari</actor>
+      <actor>Rafael Sieg</actor>
+      <actor>Osvaldo Mil</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Drama</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/7502071.jpg" />
+    <country lang="es">Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210405044500 -0300" stop="20210405060000 -0300" channel="TELEFE HD">
     <title lang="es">Espacios comerciales</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/12055194.jpg" />
   </programme>
   <programme start="20210405060000 -0300" stop="20210405064500 -0300" channel="TELEFE HD">
     <title lang="es">Nick Jr.</title>
+    <desc lang="es">Para acompañar todos los días a los más pequeños y divertirse junto a nuevos amigos, llegan "Paw Patrol, patrulla de cachorros", "Shimmer &amp; Shine", "Alvin y las ardillas", "Dora y sus amigos" y muchos personajes más.(n)</desc>
+    <category lang="es">Infantil</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3053535.jpg" />
+    <rating>
+      <value>ATP</value>
+    </rating>
   </programme>
   <programme start="20210405064500 -0300" stop="20210405070000 -0300" channel="TELEFE HD">
     <title lang="es">Tránsito y temperatura</title>
+    <desc lang="es">Un espacio que detalla el tránsito y la temperatura.(n)</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9223737.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
   </programme>
   <programme start="20210405070000 -0300" stop="20210405093000 -0300" channel="TELEFE HD">
     <title lang="es">Buen Telefe</title>
+    <desc lang="es">Toda la actualidad acompañado por un equipo de periodistas especializados en distintos temas.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/7360561.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
   </programme>
   <programme start="20210405093000 -0300" stop="20210405101500 -0300" channel="TELEFE HD">
-    <title lang="es">Mujer</title>
+    <title lang="es">Mujer - Esto pasó</title>
+    <title lang="xx">Kadin - Esto pasó</title>
+    <sub-title lang="es">Esto pasó</sub-title>
+    <desc lang="es">Bahar es una mujer que fue abandonada por su madre cuando tenía 8 años. En un momento de mucha soledad conoce a Sarp, de quien se enamora perdidamente.(n)</desc>
+    <credits>
+      <actor>Caner Cindoruk</actor>
+      <actor>Özge Özpirinçci</actor>
+      <actor>Ece Ozdikici</actor>
+      <actor>Bennu Yildirimlar</actor>
+      <actor>Seray Kaya</actor>
+      <actor>Ayça Erturan</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Telenovela</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11805013.jpg" />
+    <country lang="es">Turquía</country>
+    <rating>
+      <value>+13</value>
+    </rating>
   </programme>
   <programme start="20210405101500 -0300" stop="20210405113000 -0300" channel="TELEFE HD">
     <title lang="es">Moisés y los 10 mandamientos</title>
+    <title lang="xx">Os dez mandamentos</title>
+    <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.(n)</desc>
+    <credits>
+      <director>Alexandre Avancini</director>
+      <actor>Petrônio Gontijo</actor>
+      <actor>Sergio Marone</actor>
+      <actor>Giselle Itié</actor>
+      <actor>Giuseppe Oristânio</actor>
+      <actor>Gabriela Durlo</actor>
+      <actor>Guilherme Winter</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Telenovela</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/1969333.jpg" />
+    <country lang="es">Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
   </programme>
   <programme start="20210405113000 -0300" stop="20210405130000 -0300" channel="TELEFE HD">
     <title lang="es">Flor de equipo</title>
+    <desc lang="es">Un magazine diferente para las mañanas, con todos los temas de actualidad, y también con mucho humor. Flor se muda a un edificio y allí convivirá con vecinos reconocidos y con mucha información para compartir cada día.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/12502194.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
   </programme>
   <programme start="20210405130000 -0300" stop="20210405143000 -0300" channel="TELEFE HD">
     <title lang="es">El noticiero de la gente</title>
+    <desc lang="es">Todas las noticias de actualidad de Argentina y el mundo.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9246083.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
   </programme>
   <programme start="20210405143000 -0300" stop="20210405154500 -0300" channel="TELEFE HD">
     <title lang="es">Cortá por Lozano</title>
+    <desc lang="es">Actualidad, espectáculos, entrevistas y humor, con el particular estilo de Verónica Lozano, acompañada de reconocidos profesionales...(n)</desc>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11241855.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
   </programme>
   <programme start="20210405154500 -0300" stop="20210405163000 -0300" channel="TELEFE HD">
     <title lang="es">Mujer</title>
+    <title lang="xx">Kadin</title>
+    <desc lang="es">Bahar es una mujer que fue abandonada por su madre cuando tenía 8 años. En un momento de mucha soledad conoce a Sarp, de quien se enamora perdidamente.(n)</desc>
+    <credits>
+      <actor>Caner Cindoruk</actor>
+      <actor>Özge Özpirinçci</actor>
+      <actor>Ece Ozdikici</actor>
+      <actor>Bennu Yildirimlar</actor>
+      <actor>Seray Kaya</actor>
+      <actor>Ayça Erturan</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Telenovela</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11805013.jpg" />
+    <country lang="es">Turquía</country>
+    <rating>
+      <value>+13</value>
+    </rating>
   </programme>
   <programme start="20210405163000 -0300" stop="20210405171500 -0300" channel="TELEFE HD">
     <title lang="es">Tierra amarga</title>
+    <title lang="xx">Bir Zamanlar Çukurova</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
+    <credits>
+      <director>Evren Karabiyik</director>
+      <actor>Turgay Aydin</actor>
+      <actor>Vahide Perçin</actor>
+      <actor>Hilal Altinbilek</actor>
+      <actor>Ugur Gunes</actor>
+      <actor>Murat Unalmis</actor>
+      <actor>Bülent Polat</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Drama</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/12117188.jpg" />
+    <country lang="es">Turquía</country>
+    <rating>
+      <value>+13</value>
+    </rating>
   </programme>
   <programme start="20210405171500 -0300" stop="20210405180000 -0300" channel="TELEFE HD">
     <title lang="es">Guerra de rosas</title>
+    <title lang="xx">Güllerin Savasi</title>
+    <desc lang="es">Una joven nacida en un barrio urbano es criada en una mansión donde su padre trabajaba como jardinero. Ella admiraba a Gulfem Sipahi, la hija del millonario dueño del lugar, aunque después todo cambiará.(n)</desc>
+    <credits>
+      <actor>Alma Terzic</actor>
+      <actor>Canan Ergüder</actor>
+      <actor>Damla Sömnez</actor>
+      <actor>Baris Kiliç</actor>
+      <actor>Sercan Badur</actor>
+      <actor>Yigit Kirazci</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Telenovela</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4093965.jpg" />
+    <country lang="es">Turquía</country>
+    <rating>
+      <value>+13</value>
+    </rating>
   </programme>
   <programme start="20210405180000 -0300" stop="20210405190000 -0300" channel="TELEFE HD">
     <title lang="es">Floricienta</title>
+    <desc lang="es">Flor es una chica de veinte años que tiene un montón de sueños por cumplir. Su madre ha muerto y ella crece sola, ignorando que su verdadero padre es un importante empresario recientemente muerto.(n)</desc>
+    <credits>
+      <director>Martín Mariani</director>
+      <actor>Zulma Faiad</actor>
+      <actor>Florencia Bertotti</actor>
+      <actor>Graciela Stefani</actor>
+      <actor>Benjamín Rojas</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/12020412.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
   </programme>
   <programme start="20210405190000 -0300" stop="20210405200000 -0300" channel="TELEFE HD">
     <title lang="es">Pasapalabra</title>
+    <desc lang="es">Un reality en el que dos participantes, acompañados de dos famosos cada uno, competirán en distintos juegos cuyo objetivo es la suma de segundos para contestar a todas las definiciones de la prueba final, llamada El Rosco.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/13456081.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
   </programme>
   <programme start="20210405200000 -0300" stop="20210405213000 -0300" channel="TELEFE HD">
     <title lang="es">Telefe noticias</title>
+    <desc lang="es">Un sello de compromiso periodístico pero con mucha más información, más investigación y logrando una mirada global de cada hecho.(n)</desc>
+    <date>2019</date>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4420215.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
   </programme>
   <programme start="20210405213000 -0300" stop="20210405223000 -0300" channel="TELEFE HD">
     <title lang="es">Minuto para ganar</title>
+    <desc lang="es">Los concursantes tendrán que enfrentar diferentes desafíos en tan solo un minuto cada uno y contarán con tres oportunidades, que irán perdiendo cada vez que no logren completar el juego en el tiempo estipulado.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/12990078.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
   </programme>
   <programme start="20210405223000 -0300" stop="20210405234500 -0300" channel="TELEFE HD">
     <title lang="es">Masterchef Celebrity</title>
+    <desc lang="es">Esta edición de MasterChef contará con participantes famosos. Ellos tendrán que atravesar diferentes desafíos y demostrar sus habilidades culinarias para permanecer en el certamen. Serán evaluados por un exigente jurado.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/12273029.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
   </programme>
 </tv>
